@@ -1,4 +1,4 @@
-# Apollo Solutions Machine Learning Developer Test
+# Apollo Solutions Machine Learning 
 
 ## Project Overview
 
