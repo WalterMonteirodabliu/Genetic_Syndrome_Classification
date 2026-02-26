@@ -1,0 +1,2 @@
+n_syndromes,n_images_total,embedding_dim,images_per_syndrome_mean,images_per_syndrome_median,images_per_syndrome_min,images_per_syndrome_max
+10,1116,320,111.6,93.5,64,210
